@@ -1,4 +1,6 @@
 package com.example.android.baking_app;
 
-public class InfoActivity {
+import android.support.v7.app.AppCompatActivity;
+
+public class InfoActivity extends AppCompatActivity {
 }
