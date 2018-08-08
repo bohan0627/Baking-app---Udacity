@@ -1,4 +1,4 @@
-package com.example.android.baking_app;
+package com.example.android.baking_app.Database;
 
 public class RecipeContract {
     private RecipeContract(){

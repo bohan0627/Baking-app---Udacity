@@ -1,4 +1,4 @@
-package com.example.android.baking_app;
+package com.example.android.baking_app.Database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
